@@ -1,0 +1,1 @@
+cat archivo.txt
